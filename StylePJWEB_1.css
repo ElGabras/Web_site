@@ -89,7 +89,7 @@ header ul li:first-child {
 .form button {
      width: 15%; 
      padding: 5px 10px; 
-     background:liner-gradient(to right cornflower 50%, rgb(106, 75, 245) 50%);
+     background:linear-gradient(to right cornflower 50%, rgb(106, 75, 245) 50%);
      background-size: 200% 100%;
      background-position: right bottom;
      color: #fff; 
