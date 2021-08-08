@@ -103,7 +103,10 @@ header ul li:first-child {
  }
 /* O código abaixo não esta printando na tela ! */
 .form button:hover {
-    background-position: left bottom;    
+    background-position: left bottom;   
+    /* teste codigo funcionando (basta aplicar as suas preferencias) */
+    background: red;
+    color: yellow;
 }
 #about p {
     max-width: 600px;
